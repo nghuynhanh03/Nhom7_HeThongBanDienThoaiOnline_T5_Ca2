@@ -1,5 +1,5 @@
 # WEB BÁN ĐIỆN THOẠI_NHOM7_T5_CA2
-https://www.pinterest.com/pin/1004232416919665330
+<img src="https://www.pinterest.com/pin/1004232416919665330">
 Cửa hàng bán điện thoại HAHA Mobile Store
 •	Cửa hàng HAHA-Mobile mà một cửa hàng chuyên kinh doanh điện thoại trong nhiều năm nay và đã có một lượng khách hàng nhất định. ...
 •	Để mở rộng hoạt động kinh doanh của mình, cửa hàng mong muốn xây dựng một hệ thống thương mại điện tử nhằm mở rộng kinh doanh trên mạng internet. 
