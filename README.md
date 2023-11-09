@@ -25,7 +25,7 @@
   <tr>
     <td>Xem danh sách sản phẩm</td>
     <td>Quản lý đơn đặt hàng</td>
-    <td>Quản lý voucher</td>
+    <td>Quản lý số lượng đơn hàng</td>
   </tr>
    <tr>
     <td>Xem thông tin chi tiết sản phẩm</td>
@@ -50,7 +50,7 @@
   <tr>
     <td>Xem chi tiết tin tức</td>
     <td>Đăng xuất</td>
-    <td> </td>
+    <td>Quản lý số lượng khách hàng </td>
   </tr>
 </table>
 
