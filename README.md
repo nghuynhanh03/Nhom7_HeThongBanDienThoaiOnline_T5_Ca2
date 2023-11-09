@@ -54,11 +54,37 @@
   </tr>
 </table>
 
-<h3>Giới thiệu công nghẹ sử dụng</h3>
+<h3>Giới thiệu công nghệ sử dụng</h3>
+<ul>
+	<li>Hệ thống bán điện thoại sử dụng mô hình MVC(Model-View-Controller), Entity Framework và SQL Server Management Studio (SSMS)</li>
+	<li>MVC là một mẫu kiến ​​trúc phân tách ứng dụng thành 1) Model, 2) View và 3) Controller. Model: Nó bao gồm tất cả dữ liệu và logic liên quan của nó.
+		View: Trình bày dữ liệu cho người dùng hoặc xử lý tương tác của người dùng. Controller: Là nơi kết nối giữa các thành phần Model và View.</li>
+	<li>Entity Framework, một ORM cho phép ứng dụng tương tác với cơ sở dữ liệu một các dễ dàng và linh hoạt.</li>
+	<li>SQL Server Management Studio (SSMS) là công cụ quản lý cơ sở dữ liệu hỗ trợ tạo, chỉnh sửa, duy trì dữ liệu một cách hiệu quả.</li>
+</ul>
 
 <h3>Hướng phát triển</h3>
+<ul>
+	<li>Tạo trang web bán điện thoại với giao diện dễ sử dụng và tương thích trên các thiết bị di động.</li>
+	<li>Cung cấp thông tin sản phẩm chi tiết, chính sách đổi trả và bảo hành rõ ràng.</li>
+	<li>Tối ưu hóa trang web để tăng khả năng xuất hiện trên các công cụ tìm kiếm.</li>
+	<li>Sử dụng quảng cáo trực tuyến và tiếp thị truyền thống để tiếp cận đối tượng khách hàng.</li>
+	<li>Bảo vệ thông tin cá nhân của khách hàng và liên kết với nhà cung cấp và dịch vụ vận chuyển đáng tin cậy.</li>
+	<li>Thu thập phản hồi từ khách hàng và tối ưu hóa chiến lược dựa trên dữ liệu thu thập được.</li>
+</ul>
 
 <h3>Những nội dung làm được</h3>
+<ul>
+	<li>Đăng ký trở thành thành viên để nhận được nhiều ưu đãi từ cửa hàng</li>
+	<li>Đăng nhập</li>
+	<li>Danh sách Sản phẩm: Hiển thị danh sách các điện thoại di động bán trên trang web, bao gồm hình ảnh, giá cả, mô tả và thông số kỹ thuật chi tiết.</li>
+	<li>Thông tin Chi tiết Sản phẩm: Trang chi tiết của từng sản phẩm, bao gồm ảnh, mô tả chi tiết, thông số kỹ thuật, đánh giá và nhận xét từ người dùng.</li>
+	<li>Tìm kiếm và Bộ lọc: Hệ thống tìm kiếm giúp người dùng dễ dàng tìm kiếm sản phẩm theo tên, thương hiệu, giá cả và các tiêu chí khác. Bộ lọc giúp họ thu hẹp kết quả tìm kiếm theo nhu cầu cụ thể của họ.</li>
+	<li>Giỏ hàng và Thanh toán: Cho phép người dùng thêm sản phẩm vào giỏ hàng, xem và chỉnh sửa giỏ hàng, sau đó tiến hành thanh toán.</li>
+	<li>Chương trình Khuyến mãi và Giảm giá: Hiển thị thông tin về các chương trình khuyến mãi, giảm giá và ưu đãi đặc biệt để thu hút người mua.</li>
+	<li>Đánh giá và Nhận xét: Cho phép người dùng đánh giá sản phẩm và viết nhận xét, giúp người mua tiềm kiếm thông tin từ người dùng khác để đưa ra quyết định mua hàng.</li>
+</ul>
+
 
 
 
